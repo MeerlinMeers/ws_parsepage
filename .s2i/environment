@@ -1,0 +1,2 @@
+APP_FILE=./ws_parsepage/falcn.py
+APP_CONFIG=config.py
