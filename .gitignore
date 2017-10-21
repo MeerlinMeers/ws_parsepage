@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/ws_parsepage.iml
